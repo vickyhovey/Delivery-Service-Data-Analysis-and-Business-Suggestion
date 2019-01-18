@@ -1,0 +1,23 @@
+Column,Description
+customer_price_usd,Delivery fee the customer pays
+courier_price,Courier's share of the delivery fee
+day_of_week_local,Day of the Week
+market,City of Delivery
+num_items,Number of Items in Order
+pickup_zipcode,Zip for Pickup
+distance_pickup_to_dropoff_km,Distance from pickup to dropoff
+purchase_price,Price of Goods picked up
+avg_courier_rating,Rating of Courier at time of delivery
+status,Status of the delivery
+duration,length of time it took for delivery
+reassigned,indicates if delivery needed to be reassigned to another courier
+dropoff_zipcode,Zip Code for delivery drop off location
+rating_by_customer,Rating provided by customer for the specific delivery instance
+purchase_fee,NOT IMPORTANT
+vehicle_type,Type of vehicle used for delivery
+purchase_tip,NOT IMPORTANT
+credit_applied,Indicates if Customer paid with existing credit
+date_created_local,Local date of delivery
+rating_by_courier,Rating provided by Courier
+date_created,Universal date of delivery
+auto_assigned,NOT IMPORTANT
